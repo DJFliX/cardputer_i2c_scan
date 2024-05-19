@@ -4,8 +4,8 @@ The initial goal was just to get the addresses of the attached devices, but my n
 
 Note: addresses _are_ in HEX format, but the `0x` prefix is omitted to save screen space. 
 
-- [*] Print HEX addresses of attached I2C devices
-- [*] Allow >10 addresses to be listed
+- [x] Print HEX addresses of attached I2C devices
+- [x] Allow >10 addresses to be listed
 - [ ] Allow color cycling for the UI
 - [ ] Allow pausing scans (for future functionality)
 - [ ] Allow selecting a device to see the (possible) matches for that address
